@@ -46,7 +46,7 @@ The objective was to identify performance gaps and provide actionable recommenda
 - Migrate P7 customers to P1 or P11 using time-bound incentives.
 - Review low-performing plans and simplify the overall plan portfolio.
 - Monitor revenue, ARPU, active users and churn together.
-- Create city-specific strategies for underperforming markets.
+- Create city-specific strategies for underperforming markets
 
 ---
 
