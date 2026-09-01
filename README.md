@@ -35,7 +35,7 @@ The objective was to identify performance gaps and provide actionable recommenda
 - **P1, P11 and P12** emerged as strong-performing plans.
 - **P5, P6, P7 and P13** showed declining performance.
 - **P7 revenue declined by 73.3%**, from ₹582.4M to ₹155.6M.
-- **P8, P9 and P10** were discontinued after the 5G launch.
+- **P8, P9 and P10** were discontinued after the 5G launch
 
 ---
 
