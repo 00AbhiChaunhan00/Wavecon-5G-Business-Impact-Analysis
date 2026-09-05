@@ -4,7 +4,7 @@
 
 Wavecon, a telecom company, launched its 5G services across multiple cities. This Power BI project analyzes the business impact of the launch by comparing revenue, ARPU, active users, unsubscribed users and plan performance before and after 5G.
 
-The objective was to identify performance gaps and provide actionable recommendations for improving customer retention and revenue growth.
+The objective was to identify performance gaps and provide actionable recommendations for improving customer retention and revenue growth
 
 ---
 
