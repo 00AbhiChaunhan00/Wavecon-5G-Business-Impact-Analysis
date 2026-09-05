@@ -41,7 +41,7 @@ The objective was to identify performance gaps and provide actionable recommenda
 
 ## Recommendations
 
-- Focus on customer retention because active users declined and unsubscribers increased.
+- Focus on customer retention because active users declined and unsubscribers increased
 - Promote high-performing 5G plans such as P1, P11 and P12.
 - Migrate P7 customers to P1 or P11 using time-bound incentives.
 - Review low-performing plans and simplify the overall plan portfolio.
